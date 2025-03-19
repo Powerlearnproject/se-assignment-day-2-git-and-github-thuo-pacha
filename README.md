@@ -3,11 +3,23 @@
 # se-day-2-git-and-github
 ## Explain the fundamental concepts of version control and why GitHub is a popular tool for managing versions of code. How does version control help in maintaining project integrity?
 
+Version control assists developers to track changes of their code and also be able to collaborate with others. It also helps them to get the different versions of their code so that they are able to go back to their initial /primary code. Git hub is a popular tool as it allows coders to collaborate with others in making developments better. It is also a learning tool where developers get to learn and interact with others. Git hub has diiferent features that coders require for their development of systems/softwares.
+
+Version comtrol maintains project integrity 
+
 ## Describe the process of setting up a new repository on GitHub. What are the key steps involved, and what are some of the important decisions you need to make during this process?
 
 ## Discuss the importance of the README file in a GitHub repository. What should be included in a well-written README, and how does it contribute to effective collaboration?
 
+A README file helps developers understand projetc goals ,assists in collaboration
+
 ## Compare and contrast the differences between a public repository and a private repository on GitHub. What are the advantages and disadvantages of each, particularly in the context of collaborative projects?
+
+A public repository allows projects to be seen by everyone and can be altered by anyone. 
+
+A private repository allows projects to be visible only to the user and the allowed collaborators . An advantage is that the number of people who alter the document are few /contain the selected people. Important information is also secured as the developer amd allowed collaborators are allowed to view the document. 
+A disadvantage is that having a private repository may be costly 
+
 
 ## Detail the steps involved in making your first commit to a GitHub repository. What are commits, and how do they help in tracking changes and managing different versions of your project?
 
