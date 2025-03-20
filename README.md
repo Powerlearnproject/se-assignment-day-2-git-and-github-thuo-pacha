@@ -21,7 +21,7 @@ A well written README should include detailed information on the software, detai
 A public repository allows projects to be seen by everyone and can be altered by anyone through forking or pull requests.One advantage is that it attracts potential collaborators and employers. It is not ideal for projects that are intended for private use or for protecting intellectual property.
 
 A private repository allows projects to be visible only to the user and the allowed collaborators . An advantage is that the number of people who alter the document are few /contain the selected people. Important information is also secured as the developer amd allowed collaborators are allowed to view the document. 
-A disadvantage is that having a private repository is that it may be costly.
+A disadvantage of having a private repository is that it may be costly.
 
 
 ## Detail the steps involved in making your first commit to a GitHub repository. What are commits, and how do they help in tracking changes and managing different versions of your project?
