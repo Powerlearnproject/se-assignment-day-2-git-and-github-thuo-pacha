@@ -5,7 +5,7 @@
 
 Version control assists developers to track changes of their code and also be able to collaborate with others. It also helps them to get the different versions of their code so that they are able to go back to their initial /primary code. Git hub is a popular tool as it allows coders to collaborate with others in making developments better. It is also a learning tool where developers get to learn and interact with others. Git hub has diiferent features that coders require for their development of systems/softwares.
 
-Version control maintains project integrity by ensuring that previous versions of code are  traceable. It also prevents unauthorized changes meaning that changes can not be mad by people that ahev not been allowed to. Different collaborators can be alllowed to work on the same project without any conflicts.
+Version control maintains project integrity by ensuring that previous versions of code are  traceable. It also prevents unauthorized changes meaning that changes can not be mad by people that have not been allowed to. Different collaborators can be allowed to work on the same project without any conflicts.
 
 ## Describe the process of setting up a new repository on GitHub. What are the key steps involved, and what are some of the important decisions you need to make during this process?
 
@@ -14,7 +14,7 @@ After logging in to your git hub account, click on the button that indicates new
 ## Discuss the importance of the README file in a GitHub repository. What should be included in a well-written README, and how does it contribute to effective collaboration?
 
 A README file helps developers understand project goals ,assist in collaboration and provide detailed instructions on how to use the development.
-A well written README should include detailed information on the software, details on how to use the software ,the types of code languages that have been used in the software. This helps collaborators to be able to know what they are working on and how best to help in making effetcive changes.
+A well written README should include detailed information on the software, details on how to use the software ,the types of code languages that have been used in the software. This helps collaborators to be able to know what they are working on and how best to help in making effective changes.
 
 ## Compare and contrast the differences between a public repository and a private repository on GitHub. What are the advantages and disadvantages of each, particularly in the context of collaborative projects?
 
