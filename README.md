@@ -48,4 +48,5 @@ Issues can be used to plan track work. Issues can also be used to track bug repo
 ## Reflect on common challenges and best practices associated with using GitHub for version control. What are some common pitfalls new users might encounter, and what strategies can be employed to overcome them and ensure smooth collaboration?
 
 Basics of the Github are unknown by new users.This can be countered through watching of videos that provide tutorials on how to use this type of control version. One can also learm the commands that are provided in Github.
+
 Conflicts when merging documents in repositories that are collaborative. This can happen when people edit the same line of code or make mistakes in some lines of code. This can be mitigated through creating branches so that people are able to work on different branches and still be able to merge their lines of code. One can also pull these requests each time they change a line of code to ensure that other developers are able to see changes that have been made.
